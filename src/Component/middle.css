@@ -1,0 +1,25 @@
+
+div.MuiPaper-root{
+    position: absolute;
+    top:630px;
+    
+    background-color: black;
+}
+div.MuiTableContainer-root{
+    overflow-x: visible;
+}
+
+th.MuiTableCell-root{
+    color: white;
+}
+td.MuiTableCell-root{
+    color: ivory;
+}
+div.MuiTablePagination-toolbar{
+    color:white;
+    background-color: black;
+    
+}
+button.MuiIconButton-root{
+    color:white;
+}
