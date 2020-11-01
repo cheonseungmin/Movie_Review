@@ -1,5 +1,13 @@
 # 0. 담당 기능 및 구현 기술
+```
+클라이언트, 서버 axios를 이용하여 라우팅 처리
+mysql을 이용하여 데이터베이스 관리
+puppeteer를 이용하여 실시간 네이버 영화 목록을 웹 크롤링 함
+python-shell을 이용하여 서버에서 기계학습 .py 파일 실행
+```   
+![image](https://user-images.githubusercontent.com/63775931/97797384-f3a3c800-1c5f-11eb-83b7-04260e4c685a.png)   
 
+<ER-Diagram>
 
 # 1.제목
 텍스트 마이닝을 활용한 영화 리뷰 분석
