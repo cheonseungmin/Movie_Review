@@ -7,6 +7,7 @@
 ![image](https://user-images.githubusercontent.com/63775931/97797384-f3a3c800-1c5f-11eb-83b7-04260e4c685a.png)   
 + puppeteer를 이용하여 실시간 네이버 영화 목록을 웹 크롤링 함
 + python-shell을 이용하여 서버에서 기계학습 .py 파일 실행
++ slack, github를 이용하여 파일 관리
 
 
 # 1.제목
